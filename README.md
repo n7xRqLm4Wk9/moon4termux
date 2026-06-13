@@ -6,7 +6,7 @@ code, and fixes its own mistakes in a loop, all from a single REPL.
 
 # Note
 
-Moon currently does not support IOS, Windows, Mac. Although are currently planning to add support in future updates.
+Moon currently does not support IOS, Windows, Mac. Although we are currently planning to add support in future updates.
 
 ```
   ┌──────────────────────────┐
