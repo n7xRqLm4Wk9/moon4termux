@@ -6,8 +6,8 @@ code, and fixes its own mistakes in a loop, all from a single REPL.
 
 ```
   ┌──────────────────────────┐
-  │ Moon  ·  AI Terminal IDE │
-  │ powered by OpenRouter    │
+  │ Moon  ·  AI Terminal IDE      │
+  │ powered by OpenRouter         │
   └──────────────────────────┘
 ```
 
