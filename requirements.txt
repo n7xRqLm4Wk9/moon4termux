@@ -1,0 +1,9 @@
+# OPCODE — Python Standard Library only.
+# No pip packages required for core functionality.
+# Python 3.8+ is sufficient.
+#
+# Optional (for colored terminal output — install if desired):
+# colorama>=0.4.6
+#
+# Optional (for .env file loading):
+# python-dotenv>=1.0.0
