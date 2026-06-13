@@ -4,6 +4,10 @@ A terminal AI coding assistant for Termux on Android. Chat in plain
 English — Moon reads and writes files, runs commands, runs tests, lints
 code, and fixes its own mistakes in a loop, all from a single REPL.
 
+# Note
+
+Moon currently does not support IOS, Windows, Mac. Although are currently planning to add support in future updates.
+
 ```
   ┌──────────────────────────┐
   │ Moon  ·  AI Terminal IDE      │
@@ -36,8 +40,7 @@ pip install -q --break-system-packages requests
 Copy the `moon` folder into your home directory:
 
 ```bash
-cp -r /sdcard/moon ~/moon
-```
+rm -rf $HOME/flow && cp -r /Download/moon $HOME/moon && echo "finished"```
 
 Add your OpenRouter API key (free models work without payment — get a key
 at [openrouter.ai/keys](https://openrouter.ai/keys)):
